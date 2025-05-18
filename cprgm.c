@@ -2,5 +2,5 @@
 #include<conio.h>
 main()
 {
-printf("hello ops")
+printf("hello")
 }
